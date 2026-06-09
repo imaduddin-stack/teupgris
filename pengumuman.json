@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "judul": "Jadwal Ujian Akhir Semester Genap 2024/2025",
+    "tanggal": "2025-06-01",
+    "deskripsi": "Jadwal UAS semester genap telah ditetapkan. Mahasiswa wajib memenuhi minimal 75% kehadiran untuk dapat mengikuti ujian.",
+    "kategori": "Akademik",
+    "lampiran": null
+  },
+  {
+    "id": 2,
+    "judul": "Pengumuman Pendaftaran KKN Periode Juli 2025",
+    "tanggal": "2025-05-25",
+    "deskripsi": "Pendaftaran KKN Periode Juli 2025 dibuka mulai 1–20 Juni 2025. Mahasiswa wajib mengisi formulir online melalui portal akademik.",
+    "kategori": "Akademik",
+    "lampiran": null
+  },
+  {
+    "id": 3,
+    "judul": "Batas Pengumpulan Tugas Akhir / Skripsi Periode Juni 2025",
+    "tanggal": "2025-05-20",
+    "deskripsi": "Batas akhir pengumpulan naskah Tugas Akhir untuk Yudisium Periode Juni 2025 adalah 30 Juni 2025.",
+    "kategori": "Tugas Akhir",
+    "lampiran": null
+  },
+  {
+    "id": 4,
+    "judul": "Pemilihan Mahasiswa Berprestasi Tingkat Prodi 2025",
+    "tanggal": "2025-05-10",
+    "deskripsi": "Prodi membuka pendaftaran calon Mahasiswa Berprestasi Tingkat Prodi untuk selanjutnya mewakili di tingkat fakultas dan universitas.",
+    "kategori": "Kemahasiswaan",
+    "lampiran": null
+  },
+  {
+    "id": 5,
+    "judul": "Pembaruan Panduan Penulisan Tugas Akhir 2025",
+    "tanggal": "2025-04-15",
+    "deskripsi": "Panduan penulisan Tugas Akhir telah diperbarui sesuai kebijakan terbaru. Harap mengacu pada panduan versi 2025.",
+    "kategori": "Kebijakan",
+    "lampiran": "https://link-ke-dokumen-anda.com/file.pdf"
+  }
+]
